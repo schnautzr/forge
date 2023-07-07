@@ -1,6 +1,9 @@
 [
 {
 	"name": "Adept Black Wizard",
+	"indefinite": "an adept black wizard",
+	"definite": "the adept black wizard",
+	"plural": "adept black wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/black_wiz2.atlas",
 	"deck": [
 		"decks/standard/blackwizard_medium_demonicpact.dck",
@@ -69,6 +72,9 @@
 },
 {
 	"name": "Adept Blue Wizard",
+	"indefinite": "an adept blue wizard",
+	"definite": "the adept blue wizard",
+	"plural": "adept blue wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/blue_wiz2.atlas",
 	"deck": [
 		"decks/standard/bluewizard_medium_donate.dck",
@@ -127,6 +133,9 @@
 },
 {
 	"name": "Adept Green Wizard",
+	"indefinite": "an adept green wizard",
+	"definite": "the adept green wizard",
+	"plural": "adept green wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/green_wiz2.atlas",
 	"deck": [
 		"decks/standard/greenwizard_medium_cheatramp.dck",
@@ -194,6 +203,9 @@
 },
 {
 	"name": "Adept Red Wizard",
+	"indefinite": "an adept red wizard",
+	"definite": "the adept red wizard",
+	"plural": "adept red wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/red_wiz2.atlas",
 	"deck": [
 		"decks/standard/redwizard_medium_artifact.dck",
@@ -263,6 +275,9 @@
 },
 {
 	"name": "Adept White Wizard",
+	"indefinite": "an adept white wizard",
+	"definite": "the adept white wizard",
+	"plural": "adept white wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/white_wiz2.atlas",
 	"deck": [
 		"decks/standard/whitewizard_medium_aggro.dck",
@@ -331,6 +346,9 @@
 },
 {
 	"name": "Adventurer",
+	"indefinite": "an adventurer",
+	"definite": "the adventurer",
+	"plural": "adventurers",
 	"sprite": "sprites/enemy/humanoid/swordsman_3.atlas",
 	"deck": [
 		"decks/standard/adventurer.dck"
@@ -399,6 +417,9 @@
 },
 {
 	"name": "Aether Channeler",
+	"indefinite": "an aether channeler",
+	"definite": "the aether channeler",
+	"plural": "aether channelers",
 	"sprite": "sprites/enemy/humanoid/human/cleric/monk_3.atlas",
 	"deck": [
 		"decks/standard/aether_channeler.dck"
@@ -475,6 +496,9 @@
 },
 {
 	"name": "Akroma",
+	"indefinite": "Akroma",
+	"definite": "Akroma",
+	"plural": "Akromas",
 	"sprite": "sprites/enemy/celestial/akroma.atlas",
 	"deck": [
 		"decks/boss/akroma.dck"
@@ -545,6 +569,9 @@
 },
 {
 	"name": "Angel Warrior",
+	"indefinite": "an angel warrior",
+	"definite": "the angel warrior",
+	"plural": "angel warriors",
 	"sprite": "sprites/enemy/celestial/angelwarrior.atlas",
 	"deck": [
 		"decks/standard/angelwarrior.dck"
@@ -630,6 +657,9 @@
 },
 {
 	"name": "Amonkhet Minotaur Warrior",
+	"indefinite": "an Amonkhet minotaur warrior",
+	"definite": "the Amonkhet minotaur warrior",
+	"plural": "Amonkhet minotaur warriors",
 	"sprite": "sprites/enemy/humanoid/minotaur/amonkhet_minotaur.atlas",
 	"deck": [
 		"decks/standard/amonkhet_minotaur.dck"
@@ -715,6 +745,9 @@
 },
 {
 	"name": "Ape",
+	"indefinite": "an ape",
+	"definite": "the ape",
+	"plural": "apes",
 	"sprite": "sprites/enemy/beast/behemoth.atlas",
 	"deck": [
 		"decks/standard/ape.json"
@@ -799,6 +832,9 @@
 },
 {
 	"name": "Apprentice Black Wizard",
+	"indefinite": "an apprentice black wizard",
+	"definite": "the apprentice black wizard",
+	"plural": "apprentice black wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/black_wizard.atlas",
 	"deck": [
 		"decks/standard/blackwizard_easy_bog.dck",
@@ -870,6 +906,9 @@
 },
 {
 	"name": "Apprentice Blue Wizard",
+	"indefinite": "an apprentice blue wizard",
+	"definite": "the apprentice blue wizard",
+	"plural": "apprentice blue wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/mage.atlas",
 	"deck": [
 		"decks/standard/bluewizard_easy_artifact.dck",
@@ -943,6 +982,9 @@
 },
 {
 	"name": "Apprentice Green Wizard",
+	"indefinite": "an apprentice green wizard",
+	"definite": "the apprentice green wizard",
+	"plural": "apprentice green wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/green_wiz1.atlas",
 	"deck": [
 		"decks/standard/greenwizard_easy_elf.dck",
@@ -1014,6 +1056,9 @@
 },
 {
 	"name": "Apprentice Red Wizard",
+	"indefinite": "an apprentice red wizard",
+	"definite": "the apprentice red wizard",
+	"plural": "apprentice red wizards",
 	"sprite": "sprites/enemy/humanoid/human/wizard/enchanter.atlas",
 	"deck": [
 		"decks/standard/redwizard_easy_burn.dck",
@@ -1086,6 +1131,9 @@
 },
 {
 	"name": "Apprentice White Wizard",
+	"indefinite": "an apprentice white wizard",
+	"definite": "the apprentice white wizard",
+	"plural": "apprentice white wizards",
 	"sprite": "sprites/enemy/humanoid/human/cleric/priest.atlas",
 	"deck": [
 		"decks/standard/whitewizard_easy_ajani.dck",
@@ -1157,6 +1205,9 @@
 },
 {
 	"name": "Archer",
+	"indefinite": "an archer",
+	"definite": "the archer",
+	"plural": "archers",
 	"sprite": "sprites/enemy/humanoid/human/archer/archer_2.atlas",
 	"deck": [
 		"decks/standard/human_archer.dck"
@@ -1204,6 +1255,9 @@
 },
 {
 	"name": "Archer Elite",
+	"indefinite": "an archer elite",
+	"definite": "the archer elite",
+	"plural": "archers elite",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/human/archer/bowmandefender.atlas",
 	"deck": [
@@ -1254,6 +1308,9 @@
 },
 {
 	"name": "Archaeologist",
+	"indefinite": "an archaeologist",
+	"definite": "the archaeologist",
+	"plural": "archaeologists",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/human/artificer/archaeologist.atlas",
 	"deck": [
@@ -1308,6 +1365,9 @@
 },
 {
 	"name": "Armored Knight",
+	"indefinite": "an armored knight",
+	"definite": "the armored knight",
+	"plural": "armored knights",
 	"sprite": "sprites/enemy/humanoid/knight.atlas",
 	"deck": [
 		"decks/standard/armored_knight.dck"
@@ -1378,6 +1438,9 @@
 },
 {
 	"name": "Archmage",
+	"indefinite": "an archmage",
+	"definite": "the archmage",
+	"plural": "archmages",
 	"sprite": "sprites/enemy/humanoid/human/wizard/archmage.atlas",
 	"deck": [
 		"decks/standard/archmage.dck"
@@ -1431,6 +1494,9 @@
 },
 {
 	"name": "Artifact Warrior",
+	"indefinite": "an artifact warrior",
+	"definite": "the artifact warrior",
+	"plural": "artifact warriors",
 	"sprite": "sprites/enemy/construct/artifactsoldier.atlas",
 	"deck": [
 		"decks/standard/artifactwarrior.dck"
@@ -1507,6 +1573,9 @@
 },
 {
 	"name": "Ashmouth Devil",
+	"indefinite": "an Ashmouth devil",
+	"definite": "the Ashmouth devil",
+	"plural": "Ashmouth devils",
 	"sprite": "sprites/enemy/fiend/devil.atlas",
 	"deck": [
 		"decks/standard/ashmouth_devil.dck"
@@ -1542,6 +1611,9 @@
 },
 {
 	"name": "Axgard Dwarf",
+	"indefinite": "an Axgard dwarf",
+	"definite": "the Axgard dwarf",
+	"plural": "Axgard dwarf",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarf_8.atlas",
 	"deck": [
 		"decks/standard/axgard_dwarf.dck"
@@ -1628,6 +1700,9 @@
 },
 {
 	"name": "Auramancer",
+	"indefinite": "an auramancer",
+	"definite": "the auramancer",
+	"plural": "auramancers",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/elf/deftsorceress.atlas",
 	"deck": [
@@ -1682,6 +1757,9 @@
 },
 {
 	"name": "Badger",
+	"indefinite": "a badger",
+	"definite": "the badger",
+	"plural": "badgers",
 	"sprite": "sprites/enemy/beast/badger.atlas",
 	"deck": [
 		"decks/standard/badger.dck"
@@ -1752,6 +1830,9 @@
 },
 {
 	"name": "Bandit",
+	"indefinite": "a bandit",
+	"definite": "the bandit",
+	"plural": "bandits",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarf_7.atlas",
 	"deck": [
 		"decks/standard/bandit.dck"
@@ -1836,6 +1917,9 @@
 },
 {
 	"name": "Barbarian",
+	"indefinite": "a barbarian",
+	"definite": "the barbarian",
+	"plural": "barbarians",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/human/barbarian/barbarian.atlas",
 	"deck": [
@@ -1895,6 +1979,9 @@
 },
 {
 	"name": "Bat",
+	"indefinite": "a bat",
+	"definite": "the bat",
+	"plural": "bats",
 	"sprite": "sprites/enemy/beast/bat.atlas",
 	"deck": [
 		"decks/standard/bat.dck"
@@ -1962,6 +2049,9 @@
 },
 {
 	"name": "Bear",
+	"indefinite": "a bear",
+	"definite": "the bear",
+	"plural": "bears",
 	"sprite": "sprites/enemy/beast/bear.atlas",
 	"deck": [
 		"decks/standard/bear.json"
@@ -2044,6 +2134,9 @@
 },
 {
 	"name": "Beastmaster",
+	"indefinite": "a beastmaster",
+	"definite": "the beastmaster",
+	"plural": "beastmasters",
 	"sprite": "sprites/enemy/humanoid/human/warrior/caribou_elite.atlas",
 	"deck": [
 		"decks/standard/beastmaster.dck"
@@ -2131,6 +2224,9 @@
 },
 {
 	"name": "Beholder",
+	"indefinite": "a beholder",
+	"definite": "the beholder",
+	"plural": "beholders",
 	"sprite": "sprites/enemy/aberration/beholder.atlas",
 	"deck": [
 		"decks/standard/beholder.dck"
@@ -2216,6 +2312,9 @@
 },
 {
 	"name": "Berserker",
+	"indefinite": "a berserker",
+	"definite": "the berserker",
+	"plural": "berserkers",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarf_5.atlas",
 	"deck": [
 		"decks/standard/berserker.json"
@@ -2255,6 +2354,9 @@
 },
 {
 	"name": "Big Zombie",
+	"indefinite": "a big zombie",
+	"definite": "the big zombie",
+	"plural": "big zombies",
 	"sprite": "sprites/enemy/undead/zombie_2.atlas",
 	"deck": [
 		"decks/standard/zombie_bad.json"
@@ -2300,6 +2402,9 @@
 },
 {
 	"name": "Bird",
+	"indefinite": "a bird",
+	"definite": "the bird",
+	"plural": "birds",
 	"sprite": "sprites/enemy/monstrosity/griffin_2.atlas",
 	"deck": [
 		"decks/standard/bird_blue.json"
@@ -2387,6 +2492,9 @@
 },
 {
 	"name": "Boar",
+	"indefinite": "a boar",
+	"definite": "the boar",
+	"plural": "boars",
 	"sprite": "sprites/enemy/beast/boar.atlas",
 	"deck": [
 		"decks/standard/boar.json",
@@ -2462,6 +2570,9 @@
 },
 {
 	"name": "Boggart",
+	"indefinite": "a boggart",
+	"definite": "the boggart",
+	"plural": "boggarts",
 	"sprite": "sprites/enemy/humanoid/goblin/goblin_2.atlas",
 	"deck": [
 		"decks/standard/eyeblight.dck"
@@ -2510,6 +2621,9 @@
 },
 {
 	"name": "Bull",
+	"indefinite": "a bull",
+	"definite": "the bull",
+	"plural": "bulls",
 	"sprite": "sprites/enemy/beast/bull.atlas",
 	"deck": [
 		"decks/standard/bull.dck"
@@ -2579,6 +2693,9 @@
 },
 {
 	"name": "Bog Witch",
+	"indefinite": "a bog witch",
+	"definite": "the bog witch",
+	"plural": "bog witches",
 	"sprite": "sprites/enemy/humanoid/human/wizard/black_wiz3.atlas",
 	"deck": [
 		"decks/standard/witch.dck"
@@ -2632,6 +2749,9 @@
 },
 {
 	"name": "Bone Dragon",
+	"indefinite": "a bone dragon",
+	"definite": "the bone dragon",
+	"plural": "bone dragons",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/dragon/bonedragon.atlas",
 	"deck": [
@@ -2719,6 +2839,9 @@
 },
 {
 	"name": "Brain Mole",
+	"indefinite": "a brain mole",
+	"definite": "the brain mole",
+	"plural": "brain moles",
 	"sprite": "sprites/enemy/monstrosity/brainmole.atlas",
 	"deck": [
 		"decks/standard/millwizard.dck"
@@ -2773,6 +2896,9 @@
 },
 {
 	"name": "Camel",
+	"indefinite": "a camel",
+	"definite": "the camel",
+	"plural": "camels",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/beast/camel.atlas",
 	"deck": [
@@ -2849,6 +2975,9 @@
 },
 {
 	"name": "Cathar",
+	"indefinite": "a cathar",
+	"definite": "the cathar",
+	"plural": "cathars",
 	"sprite": "sprites/enemy/humanoid/human/soldier/cathar.atlas",
 	"deck": [
 		"decks/standard/cathar.dck"
@@ -2933,6 +3062,9 @@
 },
 {
 	"name": "Cave Spider",
+	"indefinite": "a cave spider",
+	"definite": "the cave spider",
+	"plural": "cave spiders",
 	"sprite": "sprites/enemy/beast/spider_cave.atlas",
 	"deck": [
 		"decks/standard/cave_spider.dck"
@@ -2989,6 +3121,9 @@
 },
 {
 	"name": "Centaur",
+	"indefinite": "a centaur",
+	"definite": "the centaur",
+	"plural": "centaurs",
 	"sprite": "sprites/enemy/fey/centaur.atlas",
 	"deck": [
 		"decks/standard/centaur.json"
@@ -3024,6 +3159,9 @@
 },
 {
 	"name": "Centaur Warrior",
+	"indefinite": "a centaur warrior",
+	"definite": "the centaur warrior",
+	"plural": "centaur warriors",
 	"sprite": "sprites/enemy/fey/centaur_2.atlas",
 	"deck": [
 		"decks/standard/centaur_warrior.dck"
@@ -3060,6 +3198,9 @@
 },
 {
 	"name": "Cephalid",
+	"indefinite": "a cephalid",
+	"definite": "the cephalid",
+	"plural": "cephalids",
 	"sprite": "sprites/enemy/aberration/mindflayer.atlas",
 	"deck": [
 		"decks/standard/cephalid.dck"
@@ -3159,6 +3300,9 @@
 {
 	"name": "Challenger 20",
 	"nameOverride": "Challenger",
+	"indefinite": "a challenger",
+	"definite": "the challenger",
+	"plural": "challengers",
 	"sprite": "sprites/enemy/undead/doppelganger.atlas",
 	"deck": [
 		"decks/standard/challenger_20_allied_fires.dck",
@@ -3253,6 +3397,9 @@
 {
 	"name": "Challenger 21",
 	"nameOverride": "Challenger",
+	"indefinite": "a challenger",
+	"definite": "the challenger",
+	"plural": "challengers",
 	"sprite": "sprites/enemy/undead/doppelganger.atlas",
 	"deck": [
 		"decks/standard/challenger_21_azorius_control.dck",
@@ -3347,6 +3494,9 @@
 {
 	"name": "Challenger 22",
 	"nameOverride": "Challenger",
+	"indefinite": "a challenger",
+	"definite": "the challenger",
+	"plural": "challengers",
 	"sprite": "sprites/enemy/undead/doppelganger.atlas",
 	"deck": [
 		"decks/standard/challenger_22_dimir_control.dck",
@@ -3440,6 +3590,9 @@
 },
 {
 	"name": "Chandra",
+	"indefinite": "Chandra",
+	"definite": "Chandra",
+	"plural": "Chandras",
 	"sprite": "sprites/enemy/humanoid/human/shaman/chandra.atlas",
 	"deck": [
 		"decks/miniboss/Fire of Kaladesh.dck"
@@ -3544,6 +3697,9 @@
 },
 {
 	"name": "Chandra's Acolyte",
+	"indefinite": "a Chandra's acolyte",
+	"definite": "the Chandra's acolyte",
+	"plural": "Chandra's acolytes",
 	"sprite": "sprites/enemy/humanoid/human/wizard/red_wiz2.atlas",
 	"deck": [
 		"decks/standard/chandra1.dck"
@@ -3649,6 +3805,9 @@
 },
 {
 	"name": "Chandra's Firestarter",
+	"indefinite": "a Chandra's firestarter",
+	"definite": "the Chandra's firestarter",
+	"plural": "Chandra's firestarters",
 	"sprite": "sprites/enemy/humanoid/human/wizard/red_wiz3.atlas",
 	"deck": [
 		"decks/standard/chandra2.dck"
@@ -3754,6 +3913,9 @@
 },
 {
 	"name": "Chandra's Hellhound",
+	"indefinite": "a Chandra's hellhound",
+	"definite": "the Chandra's hellhound",
+	"plural": "Chandra's hellhounds",
 	"sprite": "sprites/enemy/fiend/hellhound_2.atlas",
 	"deck": [
 		"decks/standard/hellhound2.dck"
@@ -3858,6 +4020,9 @@
 },
 {
 	"name": "Chandra's Immolator",
+	"indefinite": "a Chandra's immolator",
+	"definite": "the Chandra's immolator",
+	"plural": "Chandra's immolators",
 	"sprite": "sprites/enemy/humanoid/human/wizard/red_wiz2.atlas",
 	"deck": [
 		"decks/standard/chandra3.dck"
@@ -3963,6 +4128,9 @@
 },
 {
 	"name": "Chandra's Lavamancer",
+	"indefinite": "a Chandra's lavamancer",
+	"definite": "the Chandra's lavamancer",
+	"plural": "Chandra's lavamancers",
 	"sprite": "sprites/enemy/humanoid/human/wizard/red_wiz3.atlas",
 	"deck": [
 		"decks/standard/chandra4.dck"
@@ -4068,6 +4236,9 @@
 },
 {
 	"name": "Chandra's Pyromancer",
+	"indefinite": "a Chandra's pyromancer",
+	"definite": "the Chandra's pyromancer",
+	"plural": "Chandra's pyromancers",
 	"sprite": "sprites/enemy/humanoid/human/wizard/red_wiz2.atlas",
 	"deck": [
 		"decks/standard/chandra5.dck"
@@ -4173,6 +4344,9 @@
 },
 {
 	"name": "Chandra's Scorcher",
+	"indefinite": "a Chandra's scorcher",
+	"definite": "the Chandra's scorcher",
+	"plural": "Chandra's scorchers",
 	"sprite": "sprites/enemy/humanoid/human/wizard/red_wiz2.atlas",
 	"deck": [
 		"decks/standard/chandra6.dck"
@@ -4278,6 +4452,9 @@
 },
 {
 	"name": "Chicken",
+	"indefinite": "a chicken",
+	"definite": "the chicken",
+	"plural": "chickens",
 	"sprite": "sprites/enemy/beast/chicken.atlas",
 	"deck": [
 		"decks/standard/chicken.dck"
@@ -4326,6 +4503,9 @@
 },
 {
 	"name": "Clay Golem",
+	"indefinite": "a clay golem",
+	"definite": "the clay golem",
+	"plural": "clay golems",
 	"sprite": "sprites/enemy/construct/golem_2.atlas",
 	"deck": [
 		"decks/standard/golem_good.json"
@@ -4368,6 +4548,9 @@
 },
 {
 	"name": "Cleric",
+	"indefinite": "a cleric",
+	"definite": "the cleric",
+	"plural": "clerics",
 	"sprite": "sprites/enemy/humanoid/human/cleric/cleric.atlas",
 	"deck": [
 		"decks/standard/cleric.json"
@@ -4451,6 +4634,9 @@
 {
 	"name": "Conjurer",
 	"nameOverride": "",
+	"indefinite": "a conjurer",
+	"definite": "the conjurer",
+	"plural": "conjurers",
 	"sprite": "sprites/enemy/humanoid/conjurer.atlas",
 	"deck": [
 		"decks/miniboss/conjure.dck"
@@ -4566,6 +4752,9 @@
 },
 {
 	"name": "Construct",
+	"indefinite": "a construct",
+	"definite": "the construct",
+	"plural": "constructs",
 	"sprite": "sprites/enemy/construct/golem_3.atlas",
 	"deck": [
 		"decks/standard/artificer.dck",
@@ -4635,6 +4824,9 @@
 },
 {
 	"name": "Copper Host Brutalizer",
+	"indefinite": "a Copper Host brutalizer",
+	"definite": "the Copper Host brutalizer",
+	"plural": "Copper Host brutalizers",
 	"sprite": "sprites/enemy/aberration/copperhostbrutalizer.atlas",
 	"deck": [
 		"decks/standard/copperhostbrutalizer.dck"
@@ -4714,6 +4906,9 @@
 },
 {
 	"name": "Copper Host Infector",
+	"indefinite": "a Copper Host infector",
+	"definite": "the Copper Host infector",
+	"plural": "Copper Host infectors",
 	"sprite": "sprites/enemy/aberration/copperhostinfector.atlas",
 	"deck": [
 		"decks/standard/copperhostinfector.json"
@@ -4793,6 +4988,9 @@
 },
 {
 	"name": "Crab",
+	"indefinite": "a crab",
+	"definite": "the crab",
+	"plural": "crabs",
 	"sprite": "sprites/enemy/beast/crab.atlas",
 	"deck": [
 		"decks/standard/crab.json",
@@ -4870,6 +5068,9 @@
 },
 {
 	"name": "Criosphinx",
+	"indefinite": "a criosphinx",
+	"definite": "the criosphinx",
+	"plural": "criosphinxes",
 	"sprite": "sprites/enemy/monstrosity/criosphinx.atlas",
 	"deck": [
 		"decks/standard/sphinx amonkhet.dck"
@@ -4923,6 +5124,9 @@
 },
 {
 	"name": "Crocodile",
+	"indefinite": "a crocodile",
+	"definite": "the crocodile",
+	"plural": "crocodiles",
 	"sprite": "sprites/enemy/beast/crocodile_water.atlas",
 	"deck": [
 		"decks/standard/crocodile.dck"
@@ -4976,6 +5180,9 @@
 },
 {
 	"name": "Curselord",
+	"indefinite": "a curselord",
+	"definite": "the curselord",
+	"plural": "curselords",
 	"sprite": "sprites/enemy/humanoid/human/wizard/black_wiz2.atlas",
 	"deck": [
 		"decks/standard/curselord.dck"
@@ -5044,6 +5251,9 @@
 },
 {
 	"name": "Cyclops",
+	"indefinite": "a cyclops",
+	"definite": "the cyclops",
+	"plural": "cyclopes",
 	"sprite": "sprites/enemy/giant/cyclops.atlas",
 	"deck": [
 		"decks/standard/cyclops.dck"
@@ -5080,6 +5290,9 @@
 },
 {
 	"name": "Dark Enchanter",
+	"indefinite": "a dark enchanter",
+	"definite": "the dark enchanter",
+	"plural": "dark enchanters",
 	"sprite": "sprites/enemy/humanoid/viashino/dreamwalker.atlas",
 	"deck": [
 		"decks/standard/darkenchanter.dck"
@@ -5154,6 +5367,9 @@
 },
 {
 	"name": "Dark Knight",
+	"indefinite": "a dark knight",
+	"definite": "the dark knight",
+	"plural": "dark knights",
 	"sprite": "sprites/enemy/humanoid/human/knight/death_knight.atlas",
 	"deck": [
 		"decks/standard/death_knight.json"
@@ -5237,6 +5453,9 @@
 },
 {
 	"name": "Dark Spirit",
+	"indefinite": "a dark spirit",
+	"definite": "the dark spirit",
+	"plural": "dark spirits",
 	"sprite": "sprites/enemy/undead/ghost.atlas",
 	"deck": [
 		"decks/standard/dark_spirit.dck"
@@ -5318,6 +5537,9 @@
 },
 {
 	"name": "Dawnhart Witch",
+	"indefinite": "a Dawnhart witch",
+	"definite": "the Dawnhart witch",
+	"plural": "Dawnhart witches",
 	"sprite": "sprites/enemy/humanoid/human/warlock/dawnhart_witch.atlas",
 	"deck": [
 		"decks/standard/dawnhart_witch.dck"
@@ -5400,6 +5622,9 @@
 },
 {
 	"name": "Death Knight",
+	"indefinite": "a death knight",
+	"definite": "the death knight",
+	"plural": "death knights",
 	"sprite": "sprites/enemy/humanoid/human/knight/death_knight_2.atlas",
 	"deck": [
 		"decks/standard/death_knight.dck"
@@ -5483,6 +5708,9 @@
 },
 {
 	"name": "Demon",
+	"indefinite": "a demon",
+	"definite": "the demon",
+	"plural": "demons",
 	"sprite": "sprites/enemy/fiend/demon_3.atlas",
 	"deck": [
 		"decks/standard/demon.json",
@@ -5584,6 +5812,9 @@
 },
 {
 	"name": "Demon of Tibalt",
+	"indefinite": "a demon of Tibalt",
+	"definite": "the demon of Tibalt",
+	"plural": "demons of Tibalt",
 	"sprite": "sprites/enemy/fiend/cacodaemon.atlas",
 	"deck": [
 		"decks/standard/tibalt_demon.dck"
@@ -5652,6 +5883,9 @@
 },
 {
 	"name": "Devil",
+	"indefinite": "a devil",
+	"definite": "the devil",
+	"plural": "devils",
 	"sprite": "sprites/enemy/fiend/imp.atlas",
 	"deck": [
 		"decks/standard/devil.json"
@@ -5707,6 +5941,9 @@
 },
 {
 	"name": "Devil of Tibalt",
+	"indefinite": "a devil of Tibalt",
+	"definite": "the devil of Tibalt",
+	"plural": "devils of Tibalt",
 	"sprite": "sprites/enemy/fiend/implarge.atlas",
 	"deck": [
 		"decks/standard/tibalt_devil.dck"
@@ -5768,6 +6005,9 @@
 },
 {
 	"name": "Dimir Faerie",
+	"indefinite": "a Dimir faerie",
+	"definite": "the Dimir faerie",
+	"plural": "Dimir faeries",
 	"sprite": "sprites/enemy/fey/pixie_dimir.atlas",
 	"deck": [
 		"decks/standard/dimir_faerie.dck"
@@ -5845,6 +6085,9 @@
 },
 {
 	"name": "Dino",
+	"indefinite": "a dino",
+	"definite": "the dino",
+	"plural": "dinos",
 	"sprite": "sprites/enemy/beast/ancient.atlas",
 	"deck": [
 		"decks/standard/dinosaurs.json"
@@ -5899,6 +6142,9 @@
 },
 {
 	"name": "Dinosaur",
+	"indefinite": "a dinosaur",
+	"definite": "the dinosaur",
+	"plural": "dinosaurs",
 	"sprite": "sprites/enemy/beast/ancient_2.atlas",
 	"deck": [
 		"decks/standard/dinosaur_w_r.dck"
@@ -5952,6 +6198,9 @@
 },
 {
 	"name": "Disciple of Teferi",
+	"indefinite": "a disciple of Teferi",
+	"definite": "the disciple of Teferi",
+	"plural": "disciples of Teferi",
 	"sprite": "sprites/enemy/humanoid/human/cleric/monk.atlas",
 	"deck": [
 		"decks/standard/disciple_of_teferi.dck"
@@ -6030,6 +6279,9 @@
 },
 {
 	"name": "Djinn",
+	"indefinite": "a djinn",
+	"definite": "the djinn",
+	"plural": "djinns",
 	"sprite": "sprites/enemy/elemental/djinn.atlas",
 	"deck": [
 		"decks/standard/djinn.json"
@@ -6114,6 +6366,9 @@
 },
 {
 	"name": "Dog",
+	"indefinite": "a dog",
+	"definite": "the dog",
+	"plural": "dogs",
 	"sprite": "sprites/enemy/beast/dog.atlas",
 	"deck": [
 		"decks/standard/dog.json",
@@ -6182,6 +6437,9 @@
 },
 {
 	"name": "Doppelganger",
+	"indefinite": "a doppelganger",
+	"definite": "the doppelganger",
+	"plural": "doppelgangers",
 	"sprite": "sprites/enemy/undead/doppelganger.atlas",
 	"deck": [
 		"decks/standard/mimic.dck"
@@ -6231,6 +6489,9 @@
 },
 {
 	"name": "Dragon",
+	"indefinite": "a dragon",
+	"definite": "the dragon",
+	"plural": "dragons",
 	"sprite": "sprites/enemy/dragon/dragon.atlas",
 	"deck": [
 		"decks/standard/dragon.dck"
@@ -6315,6 +6576,9 @@
 },
 {
 	"name": "Dragonfly",
+	"indefinite": "a dragonfly",
+	"definite": "the dragonfly",
+	"plural": "dragonflies",
 	"sprite": "sprites/enemy/beast/dragonfly.atlas",
 	"deck": [
 		"decks/standard/insect.dck"
@@ -6374,6 +6638,9 @@
 },
 {
 	"name": "Dross Gladiator",
+	"indefinite": "a Dross gladiator",
+	"definite": "the Dross gladiator",
+	"plural": "Dross gladiators",
 	"sprite": "sprites/enemy/aberration/drossgladiator.atlas",
 	"deck": [
 		"decks/standard/drossgladiator.json"
@@ -6455,6 +6722,9 @@
 },
 {
 	"name": "Dross Grimnarch",
+	"indefinite": "a Dross Grimnarch",
+	"definite": "the Dross Grimnarch",
+	"plural": "Dross Grimnarchs",
 	"sprite": "sprites/enemy/aberration/drossgrimnarch.atlas",
 	"deck": [
 		"decks/standard/drossgrimnarch.dck"
@@ -6537,6 +6807,9 @@
 },
 {
 	"name": "Dwarf",
+	"indefinite": "a dwarf",
+	"definite": "the dwarf",
+	"plural": "dwarves",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarf_2.atlas",
 	"deck": [
 		"decks/standard/dwarf.json"
@@ -6622,6 +6895,9 @@
 },
 {
 	"name": "Dwarf Demolisher",
+	"indefinite": "a dwarf demolisher",
+	"definite": "the dwarf demolisher",
+	"plural": "dwarf demolishers",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarf_3.atlas",
 	"deck": [
@@ -6696,6 +6972,9 @@
 },
 {
 	"name": "Dwarf Mercenary",
+	"indefinite": "a dwarf mercenary",
+	"definite": "the dwarf mercenary",
+	"plural": "dwarf mercenaries",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarf_4.atlas",
 	"deck": [
@@ -6782,6 +7061,9 @@
 },
 {
 	"name": "Dwarf Pilot",
+	"indefinite": "a dwarf pilot",
+	"definite": "the dwarf pilot",
+	"plural": "dwarf pilots",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarfpilot.atlas",
 	"deck": [
@@ -6856,6 +7138,9 @@
 },
 {
 	"name": "Dwarf Warlord",
+	"indefinite": "a dwarf warlord",
+	"definite": "the dwarf warlord",
+	"plural": "dwarf warlords",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/dwarf/dwarflarge.atlas",
 	"deck": [
@@ -6910,6 +7195,9 @@
 },
 {
 	"name": "Efreet",
+	"indefinite": "an efreet",
+	"definite": "the efreet",
+	"plural": "efreets",
 	"sprite": "sprites/enemy/elemental/efreet_2.atlas",
 	"deck": [
 		"decks/standard/efreet.dck"
@@ -6947,6 +7235,9 @@
 },
 {
 	"name": "Eldraine Faerie",
+	"indefinite": "an Eldraine faerie",
+	"definite": "the Eldraine faerie",
+	"plural": "Eldraine faeries",
 	"sprite": "sprites/enemy/fey/pixie.atlas",
 	"deck": [
 		"decks/standard/eldraine_faerie.dck"
@@ -7032,6 +7323,9 @@
 },
 {
 	"name": "Eldraine Knight",
+	"indefinite": "an Eldraine knight",
+	"definite": "the Eldraine knight",
+	"plural": "Eldraine knights",
 	"sprite": "sprites/enemy/humanoid/paladin_2.atlas",
 	"deck": [
 		"decks/standard/eldraine_knight.dck"
@@ -7116,6 +7410,9 @@
 },
 {
 	"name": "Eldrazi",
+	"indefinite": "an Eldrazi",
+	"definite": "the Eldrazi",
+	"plural": "Eldrazi",
 	"sprite": "sprites/enemy/elemental/mindelemental.atlas",
 	"deck": [
 		"decks/standard/eldrazi.json"
@@ -7202,6 +7499,9 @@
 },
 {
 	"name": "Elephant",
+	"indefinite": "an elephant",
+	"definite": "the elephant",
+	"plural": "elephants",
 	"sprite": "sprites/enemy/beast/elephant.atlas",
 	"deck": [
 		"decks/standard/elephant.json"
@@ -7253,6 +7553,9 @@
 },
 {
 	"name": "Elemental",
+	"indefinite": "an elemental",
+	"definite": "the elemental",
+	"plural": "elementals",
 	"sprite": "sprites/enemy/elemental/crystalelemental.atlas",
 	"deck": [
 		"decks/standard/elemental_blue.json"
@@ -7333,6 +7636,9 @@
 },
 {
 	"name": "Elf",
+	"indefinite": "an elf",
+	"definite": "the elf",
+	"plural": "elves",
 	"sprite": "sprites/enemy/humanoid/elf/druid.atlas",
 	"deck": [
 		"decks/standard/elf_bad.json"
@@ -7378,6 +7684,9 @@
 },
 {
 	"name": "Elf warrior",
+	"indefinite": "an elf warrior",
+	"definite": "the elf warrior",
+	"plural": "elf warriors",
 	"sprite": "sprites/enemy/humanoid/elf/hunter.atlas",
 	"deck": [
 		"decks/standard/elf_mid.json"
@@ -7423,6 +7732,9 @@
 },
 {
 	"name": "Elk",
+	"indefinite": "an elk",
+	"definite": "the elk",
+	"plural": "elk",
 	"sprite": "sprites/enemy/beast/deer_2.atlas",
 	"deck": [
 		"decks/standard/elk.dck"
@@ -7504,6 +7816,9 @@
 },
 {
 	"name": "Emrakul",
+	"indefinite": "Emrakul",
+	"definite": "Emrakul",
+	"plural": "Emrakuls",
 	"sprite": "sprites/enemy/aberration/emrakul.atlas",
 	"deck": [
 		"decks/boss/emrakul.dck"
@@ -7551,6 +7866,9 @@
 },
 {
 	"name": "Eye",
+	"indefinite": "an eye",
+	"definite": "the eye",
+	"plural": "eyes",
 	"sprite": "sprites/enemy/aberration/eye.atlas",
 	"deck": [
 		"decks/standard/eye.dck"
@@ -7621,6 +7939,9 @@
 },
 {
 	"name": "Faerie",
+	"indefinite": "a faerie",
+	"definite": "the faerie",
+	"plural": "faeries",
 	"sprite": "sprites/enemy/fey/pixie_2.atlas",
 	"deck": [
 		"decks/standard/faerie.json"
@@ -7705,6 +8026,9 @@
 },
 {
 	"name": "Falcon",
+	"indefinite": "a falcon",
+	"definite": "the falcon",
+	"plural": "falcons",
 	"sprite": "sprites/enemy/beast/falcon.atlas",
 	"deck": [
 		"decks/standard/falcon_w.dck"
@@ -7756,6 +8080,9 @@
 },
 {
 	"name": "Falcon-headed Aven Warrior",
+	"indefinite": "a falcon-headed aven warrior",
+	"definite": "the falcon-headed aven warrior",
+	"plural": "falcon-headed aven warriors",
 	"sprite": "sprites/enemy/humanoid/aven/falconheadedaven.atlas",
 	"deck": [
 		"decks/standard/amonkhet_aven_w.dck"
@@ -7842,6 +8169,9 @@
 },
 {
 	"name": "Farmer",
+	"indefinite": "a farmer",
+	"definite": "the farmer",
+	"plural": "farmers",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/human/peasant/farmer.atlas",
 	"deck": [
@@ -7928,6 +8258,9 @@
 },
 {
 	"name": "Fire Dragon",
+	"indefinite": "a fire dragon",
+	"definite": "the fire dragon",
+	"plural": "fire dragons",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/dragon/firedragon.atlas",
 	"deck": [
@@ -8010,6 +8343,9 @@
 },
 {
 	"name": "Fire Elemental",
+	"indefinite": "a fire elemental",
+	"definite": "the fire elemental",
+	"plural": "fire elementals",
 	"sprite": "sprites/enemy/elemental/fireelemental.atlas",
 	"deck": [
 		"decks/standard/fire_elemental.dck"
@@ -8093,6 +8429,9 @@
 },
 {
 	"name": "Fire Giant",
+	"indefinite": "a fire giant",
+	"definite": "the fire giant",
+	"plural": "fire giants",
 	"sprite": "sprites/enemy/giant/firegiant.atlas",
 	"deck": [
 		"decks/standard/firegiant.dck"
@@ -8165,6 +8504,9 @@
 },
 {
 	"name": "Flame Elemental",
+	"indefinite": "a flame elemental",
+	"definite": "the flame elemental",
+	"plural": "flame elementals",
 	"sprite": "sprites/enemy/elemental/magmaelemental.atlas",
 	"deck": [
 		"decks/standard/flame_elemental.dck"
@@ -8246,6 +8588,9 @@
 },
 {
 	"name": "Flying Witch",
+	"indefinite": "a flying witch",
+	"definite": "the flying witch",
+	"plural": "flying witches",
 	"sprite": "sprites/enemy/humanoid/human/warlock/flyingwitch.atlas",
 	"deck": [
 		"decks/standard/witch.dck"
@@ -8310,6 +8655,9 @@
 },
 {
 	"name": "Forest Giant",
+	"indefinite": "a forest giant",
+	"definite": "the forest giant",
+	"plural": "forest giants",
 	"sprite": "sprites/enemy/giant/forestgiant.atlas",
 	"deck": [
 		"decks/standard/foresttitan.dck"
@@ -8383,6 +8731,9 @@
 },
 {
 	"name": "Fox",
+	"indefinite": "a fox",
+	"definite": "the fox",
+	"plural": "foxes",
 	"sprite": "sprites/enemy/beast/fox.atlas",
 	"deck": [
 		"decks/standard/fox.json",
@@ -8447,6 +8798,9 @@
 },
 {
 	"name": "Frog",
+	"indefinite": "a frog",
+	"definite": "the frog",
+	"plural": "frogs",
 	"sprite": "sprites/enemy/beast/frog.atlas",
 	"deck": [
 		"decks/standard/frog.json"
@@ -8514,6 +8868,9 @@
 },
 {
 	"name": "Frost Titan",
+	"indefinite": "a frost titan",
+	"definite": "the frost titan",
+	"plural": "frost titans",
 	"sprite": "sprites/enemy/giant/titan.atlas",
 	"deck": [
 		"decks/standard/frost_titan.dck"
@@ -8601,6 +8958,9 @@
 },
 {
 	"name": "Fungus",
+	"indefinite": "a fungus",
+	"definite": "the fungus",
+	"plural": "fungi",
 	"sprite": "sprites/enemy/plant/fungus.atlas",
 	"deck": [
 		"decks/standard/fungus.json"
@@ -8687,6 +9047,9 @@
 },
 {
 	"name": "Furnace Goblin",
+	"indefinite": "a Furnace goblin",
+	"definite": "the Furnace goblin",
+	"plural": "Furnace goblins",
 	"sprite": "sprites/enemy/aberration/furnacegoblin.atlas",
 	"deck": [
 		"decks/standard/furnacegoblin.json"
@@ -8767,6 +9130,9 @@
 },
 {
 	"name": "Furnace Tormentor",
+	"indefinite": "a Furnace tormentor",
+	"definite": "the Furnace tormentor",
+	"plural": "Furnace tormentors",
 	"sprite": "sprites/enemy/aberration/furnacetormentor.atlas",
 	"deck": [
 		"decks/standard/furnacetormentor.dck"
@@ -8850,6 +9216,9 @@
 {
 	"name": "Gargoyle",
 	"nameOverride": "Obsidian Gargoyle",
+	"indefinite": "an obsidian gargoyle",
+	"definite": "the obsidian gargoyle",
+	"plural": "obsidian gargoyles",
 	"sprite": "sprites/enemy/construct/gargoyle.atlas",
 	"deck": [
 		"decks/standard/gargoyle.json"
@@ -8941,6 +9310,9 @@
 {
 	"name": "Gargoyle 2",
 	"nameOverride": "Granite Gargoyle",
+	"indefinite": "a granite gargoyle",
+	"definite": "the granite gargoyle",
+	"plural": "granite gargoyles",
 	"sprite": "sprites/enemy/construct/gargoyle_2.atlas",
 	"deck": [
 		"decks/standard/gargoyle.dck"
@@ -9028,6 +9400,9 @@
 },
 {
 	"name": "Ghalta",
+	"indefinite": "Ghalta",
+	"definite": "Ghalta",
+	"plural": "Ghaltas",
 	"sprite": "sprites/enemy/beast/ghalta.atlas",
 	"deck": [
 		"decks/boss/ghalta.dck"
@@ -9095,6 +9470,9 @@
 },
 {
 	"name": "Garruk",
+	"indefinite": "Garruk",
+	"definite": "Garruk",
+	"plural": "Garruks",
 	"sprite": "sprites/enemy/humanoid/human/shaman/garruk.atlas",
 	"deck": [
 		"decks/miniboss/garruk.dck"
@@ -9185,6 +9563,9 @@
 },
 {
 	"name": "Geist",
+	"indefinite": "a geist",
+	"definite": "the geist",
+	"plural": "geists",
 	"sprite": "sprites/enemy/undead/ghost.atlas",
 	"deck": [
 		"decks/standard/ghost_blue.dck"
@@ -9267,6 +9648,9 @@
 },
 {
 	"name": "Ghoul",
+	"indefinite": "a ghoul",
+	"definite": "the ghoul",
+	"plural": "ghouls",
 	"sprite": "sprites/enemy/undead/ghoul.atlas",
 	"deck": [
 		"decks/standard/ghoul.dck"
@@ -9302,6 +9686,9 @@
 },
 {
 	"name": "Ghoul Gravecaller",
+	"indefinite": "a ghoul gravecaller",
+	"definite": "the ghoul gravecaller",
+	"plural": "ghoul gravecallers",
 	"sprite": "sprites/enemy/undead/ghoullarge.atlas",
 	"deck": [
 		"decks/standard/ghoulgravecrawler.dck"
@@ -9360,6 +9747,9 @@
 },
 {
 	"name": "Ghost",
+	"indefinite": "a ghost",
+	"definite": "the ghost",
+	"plural": "ghosts",
 	"sprite": "sprites/enemy/undead/ghost_2.atlas",
 	"deck": [
 		"decks/standard/ghost.json"
@@ -9443,6 +9833,9 @@
 },
 {
 	"name": "Giant Fly",
+	"indefinite": "a giant fly",
+	"definite": "the giant fly",
+	"plural": "giant flies",
 	"sprite": "sprites/enemy/beast/giantfly.atlas",
 	"deck": [
 		"decks/standard/insect.dck"
@@ -9505,6 +9898,9 @@
 },
 {
 	"name": "Giant Spider",
+	"indefinite": "a giant spider",
+	"definite": "the giant spider",
+	"plural": "giant spiders",
 	"sprite": "sprites/enemy/beast/spider_purple.atlas",
 	"deck": [
 		"decks/standard/spider_token.dck"
@@ -9542,6 +9938,9 @@
 },
 {
 	"name": "Gitaxian Scientist",
+	"indefinite": "a Gitaxian scientist",
+	"definite": "the Gitaxian scientist",
+	"plural": "Gitaxian scientists",
 	"sprite": "sprites/enemy/aberration/gitaxianscientist.atlas",
 	"deck": [
 		"decks/standard/gitaxianscientist.dck"
@@ -9625,6 +10024,9 @@
 },
 {
 	"name": "Gitaxian Underling",
+	"indefinite": "a Gitaxian underling",
+	"definite": "the Gitaxian underling",
+	"plural": "Gitaxian underlings",
 	"sprite": "sprites/enemy/aberration/gitaxianunderling.atlas",
 	"deck": [
 		"decks/standard/gitaxianunderling.json"
@@ -9706,6 +10108,9 @@
 {
 	"name": "Grave Titan",
 	"nameOverride": "",
+	"indefinite": "a grave titan",
+	"definite": "the grave titan",
+	"plural": "grave titans",
 	"sprite": "sprites/enemy/giant/gravetitan.atlas",
 	"deck": [
 		"decks/standard/gravetitan.dck"
@@ -9769,6 +10174,9 @@
 },
 {
 	"name": "Greater Sandwurm",
+	"indefinite": "a greater sandwurm",
+	"definite": "the greater sandwurm",
+	"plural": "greater sandwurms",
 	"sprite": "sprites/enemy/monstrosity/sandwurm2.atlas",
 	"deck": [
 		"decks/standard/sandwurm.dck"
@@ -9812,6 +10220,9 @@
 },
 {
 	"name": "Greater Zombie",
+	"indefinite": "a greater zombie",
+	"definite": "the greater zombie",
+	"plural": "greater zombies",
 	"sprite": "sprites/enemy/undead/zombie.atlas",
 	"deck": [
 		"decks/standard/zombie_greater.dck"
@@ -9880,6 +10291,9 @@
 },
 {
 	"name": "Griselbrand",
+	"indefinite": "Griselbrand",
+	"definite": "Griselbrand",
+	"plural": "Griselbrands",
 	"sprite": "sprites/enemy/fiend/griselbrand.atlas",
 	"deck": [
 		"decks/boss/griselbrand.dck"
@@ -9948,6 +10362,9 @@
 },
 {
 	"name": "Grolnok",
+	"indefinite": "Grolnok",
+	"definite": "Grolnok",
+	"plural": "Grolnoks",
 	"sprite": "sprites/enemy/aberration/frogboss.atlas",
 	"deck": [
 		"decks/miniboss/frogboss.dck"
@@ -10050,6 +10467,9 @@
 },
 {
 	"name": "Gorilla",
+	"indefinite": "a gorilla",
+	"definite": "the gorilla",
+	"plural": "gorillas",
 	"sprite": "sprites/enemy/beast/gorilla.atlas",
 	"deck": [
 		"decks/standard/gorilla.dck"
@@ -10131,6 +10551,9 @@
 },
 {
 	"name": "Loamspeaker",
+	"indefinite": "a loamspeaker",
+	"definite": "the loamspeaker",
+	"plural": "loamspeakers",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/elf/shaman.atlas",
 	"deck": [
@@ -10217,6 +10640,9 @@
 {
 	"name": "Gladiator",
 	"nameOverride": "",
+	"indefinite": "a gladiator",
+	"definite": "the gladiator",
+	"plural": "gladiators",
 	"sprite": "sprites/enemy/humanoid/human/warrior/gladiator.atlas",
 	"deck": [
 		"decks/standard/gladiator.dck"
@@ -10272,6 +10698,9 @@
 },
 {
 	"name": "Goblin",
+	"indefinite": "a goblin",
+	"definite": "the goblin",
+	"plural": "goblins",
 	"sprite": "sprites/enemy/humanoid/goblin/goblin.atlas",
 	"deck": [
 		"decks/standard/goblin_bad.json"
@@ -10327,6 +10756,9 @@
 },
 {
 	"name": "Goblin Artificer",
+	"indefinite": "a goblin artificer",
+	"definite": "the goblin artificer",
+	"plural": "goblin artificers",
 	"sprite": "sprites/enemy/humanoid/goblin/goblin.atlas",
 	"deck": [
 		"decks/standard/goblin_artificer.dck"
@@ -10390,6 +10822,9 @@
 },
 {
 	"name": "Goblin Chief",
+	"indefinite": "a goblin chief",
+	"definite": "the goblin chief",
+	"plural": "goblin chiefs",
 	"sprite": "sprites/enemy/humanoid/goblin/wolf_rider_2.atlas",
 	"deck": [
 		"decks/standard/goblin_good.json"
@@ -10442,6 +10877,9 @@
 },
 {
 	"name": "Goblin King",
+	"indefinite": "a goblin king",
+	"definite": "the goblin king",
+	"plural": "goblin kings",
 	"sprite": "sprites/enemy/humanoid/goblin/goblinking.atlas",
 	"deck": [
 		"decks/standard/goblinking.dck"
@@ -10504,6 +10942,9 @@
 },
 {
 	"name": "Goblin Pack",
+	"indefinite": "a goblin pack",
+	"definite": "the goblin pack",
+	"plural": "goblin packs",
 	"sprite": "sprites/enemy/humanoid/goblin/goblin_group.atlas",
 	"deck": [
 		"decks/standard/goblin_bad.json"
@@ -10567,6 +11008,9 @@
 },
 {
 	"name": "Goblin Warrior",
+	"indefinite": "a goblin warrior",
+	"definite": "the goblin warrior",
+	"plural": "goblin warriors",
 	"sprite": "sprites/enemy/humanoid/goblin/wolf_rider.atlas",
 	"deck": [
 		"decks/standard/goblin_mid.json"
@@ -10616,6 +11060,9 @@
 },
 {
 	"name": "Golem",
+	"indefinite": "a golem",
+	"definite": "the golem",
+	"plural": "golems",
 	"sprite": "sprites/enemy/construct/golem.atlas",
 	"deck": [
 		"decks/standard/golem.json"
@@ -10667,6 +11114,9 @@
 {
 	"name": "Golem that is Generous",
 	"nameOverride": "Shiny Golem",
+	"indefinite": "a shiny golem",
+	"definite": "the shiny golem",
+	"plural": "shiny golems",
 	"sprite": "sprites/enemy/construct/golem.atlas",
 	"deck": [
 		"decks/standard/golem.json"
@@ -10728,6 +11178,10 @@
 },
 {
 	"name": "Golgari Elf",
+	"nameOverride": "Devkarin",
+	"indefinite": "a Devkarin",
+	"definite": "the Devkarin",
+	"plural": "Devkarin",
 	"sprite": "sprites/enemy/humanoid/elf/elf_golgari.atlas",
 	"deck": [
 		"decks/standard/elf_golgari.dck"
@@ -10796,6 +11250,9 @@
 },
 {
 	"name": "Golgari Fungus",
+	"indefinite": "a Golgari fungus",
+	"definite": "the Golgari fungus",
+	"plural": "Golgari fungi",
 	"sprite": "sprites/enemy/plant/fungus_golgari.atlas",
 	"deck": [
 		"decks/standard/fungus_golgari.dck"
@@ -10858,6 +11315,9 @@
 },
 {
 	"name": "Golgari Treefolk",
+	"indefinite": "a Golgari treefolk",
+	"definite": "the Golgari treefolk",
+	"plural": "Golgari treefolk",
 	"sprite": "sprites/enemy/plant/treant_golgari.atlas",
 	"deck": [
 		"decks/standard/treefolk_golgari.dck"
@@ -10943,6 +11403,9 @@
 },
 {
 	"name": "Gorgon",
+	"indefinite": "a gorgon",
+	"definite": "the gorgon",
+	"plural": "gorgons",
 	"sprite": "sprites/enemy/monstrosity/gorgone.atlas",
 	"deck": [
 		"decks/standard/gorgon.dck"
@@ -11028,6 +11491,9 @@
 {
 	"name": "Gorgon 2",
 	"nameOverride": "Gorgon Sculptor",
+	"indefinite": "a gorgon sculptor",
+	"definite": "the gorgon sculptor",
+	"plural": "gorgon sculptors",
 	"sprite": "sprites/enemy/monstrosity/gorgonen.atlas",
 	"deck": [
 		"decks/standard/gorgon_2.dck"
@@ -11112,6 +11578,9 @@
 },
 {
 	"name": "Green Beast",
+	"indefinite": "a green beast",
+	"definite": "the green beast",
+	"plural": "green beasts",
 	"sprite": "sprites/enemy/monstrosity/basilisk.atlas",
 	"deck": [
 		"decks/standard/beast_green.json"
@@ -11195,6 +11664,9 @@
 },
 {
 	"name": "Griffin",
+	"indefinite": "a griffin",
+	"definite": "the griffin",
+	"plural": "griffins",
 	"sprite": "sprites/enemy/monstrosity/griffin.atlas",
 	"deck": [
 		"decks/standard/griffin.json"
@@ -11281,6 +11753,9 @@
 },
 {
 	"name": "Guardian Angel",
+	"indefinite": "a guardian angel",
+	"definite": "the guardian angel",
+	"plural": "guardian angels",
 	"sprite": "sprites/enemy/celestial/akroma.atlas",
 	"deck": [
 		"decks/miniboss/angel_rainbow_encounter.dck"
@@ -11314,6 +11789,9 @@
 },
 {
 	"name": "Harpy",
+	"indefinite": "a harpy",
+	"definite": "the harpy",
+	"plural": "harpies",
 	"sprite": "sprites/enemy/monstrosity/harpy.atlas",
 	"deck": [
 		"decks/standard/harpy.dck"
@@ -11398,6 +11876,9 @@
 {
 	"name": "Harpy 2",
 	"nameOverride": "Harpy Crone",
+	"indefinite": "a harpy crone",
+	"definite": "the harpy crone",
+	"plural": "harpy crones",
 	"sprite": "sprites/enemy/monstrosity/harpy_2.atlas",
 	"deck": [
 		"decks/standard/harpy_2.dck"
@@ -11483,6 +11964,9 @@
 },
 {
 	"name": "Hellhound",
+	"indefinite": "a hellhound",
+	"definite": "the hellhound",
+	"plural": "hellhounds",
 	"sprite": "sprites/enemy/fiend/hellhound_2.atlas",
 	"deck": [
 		"decks/standard/hellhound.dck"
@@ -11569,6 +12053,10 @@
 },
 {
 	"name": "Hidden Bush",
+	"nameOverride": "Ambusher",
+	"indefinite": "an ambusher",
+	"definite": "the ambusher",
+	"plural": "ambushers",
 	"sprite": "sprites/enemy/plant/hiddenbush.atlas",
 	"deck": [
 		"decks/standard/plant.dck"
@@ -11622,6 +12110,10 @@
 },
 {
 	"name": "Hidden Snake",
+	"nameOverride": "Cobra",
+	"indefinite": "a cobra",
+	"definite": "the cobra",
+	"plural": "cobras",
 	"sprite": "sprites/enemy/beast/cobradungeon.atlas",
 	"deck": [
 		"decks/standard/snake.json"
@@ -11675,6 +12167,9 @@
 },
 {
 	"name": "High Elf",
+	"indefinite": "a high elf",
+	"definite": "the high elf",
+	"plural": "high elves",
 	"sprite": "sprites/enemy/humanoid/elf/druid_2.atlas",
 	"deck": [
 		"decks/standard/elf_good.json"
@@ -11723,6 +12218,9 @@
 },
 {
 	"name": "High Vampire",
+	"indefinite": "a high vampire",
+	"definite": "the high vampire",
+	"plural": "high vampires",
 	"sprite": "sprites/enemy/undead/vampire_2.atlas",
 	"deck": [
 		"decks/standard/vampire.json"
@@ -11809,6 +12307,9 @@
 },
 {
 	"name": "Hippo",
+	"indefinite": "a hippo",
+	"definite": "the hippo",
+	"plural": "hippos",
 	"sprite": "sprites/enemy/beast/hippo.atlas",
 	"deck": [
 		"decks/standard/hippo.dck"
@@ -11857,6 +12358,9 @@
 },
 {
 	"name": "Homarid",
+	"indefinite": "a homarid",
+	"definite": "the homarid",
+	"plural": "homarids",
 	"sprite": "sprites/enemy/monstrosity/homarid.atlas",
 	"deck": [
 		"decks/standard/homarid.dck"
@@ -11918,6 +12422,9 @@
 },
 {
 	"name": "Horror",
+	"indefinite": "a horror",
+	"definite": "the horror",
+	"plural": "horrors",
 	"sprite": "sprites/enemy/aberration/leech_2.atlas",
 	"deck": [
 		"decks/standard/horror.dck"
@@ -12002,6 +12509,9 @@
 },
 {
 	"name": "Horror of Tibalt",
+	"indefinite": "a horror of Tibalt",
+	"definite": "the horror of Tibalt",
+	"plural": "horrors of Tibalt",
 	"sprite": "sprites/enemy/fiend/akaname.atlas",
 	"deck": [
 		"decks/standard/tibalt_horror.dck"
@@ -12045,6 +12555,9 @@
 },
 {
 	"name": "Horse",
+	"indefinite": "a horse",
+	"definite": "the horse",
+	"plural": "horses",
 	"sprite": "sprites/enemy/beast/horseblack.atlas",
 	"deck": [
 		"decks/standard/horse.dck"
@@ -12102,6 +12615,9 @@
 },
 {
 	"name": "Sunmare",
+	"indefinite": "a sunmare",
+	"definite": "the sunmare",
+	"plural": "sunmares",
 	"sprite": "sprites/enemy/beast/horsearabian.atlas",
 	"deck": [
 		"decks/standard/horse.dck"
@@ -12159,6 +12675,9 @@
 },
 {
 	"name": "Horseman",
+	"indefinite": "a horseman",
+	"definite": "the horseman",
+	"plural": "horsemen",
 	"sprite": "sprites/enemy/humanoid/human/knight/cavalier_2.atlas",
 	"deck": [
 		"decks/standard/horsemanship.dck"
@@ -12206,6 +12725,10 @@
 },
 {
 	"name": "Human",
+	"nameOverride": "Human Piker",
+	"indefinite": "a human piker",
+	"definite": "the human piker",
+	"plural": "human pikers",
 	"sprite": "sprites/enemy/humanoid/human/soldier/pikeman.atlas",
 	"deck": [
 		"decks/standard/human_bad.json"
@@ -12253,6 +12776,9 @@
 },
 {
 	"name": "Human Captain",
+	"indefinite": "a human captain",
+	"definite": "the human captain",
+	"plural": "human captains",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/human/knight/braveknight.atlas",
 	"deck": [
@@ -12307,7 +12833,10 @@
 },
 {
 	"name": "Human elite",
-	"nameOverride": "Legionaire",
+	"nameOverride": "Legionnaire",
+	"indefinite": "a legionnaire",
+	"definite": "the legionnaire",
+	"plural": "legionnaires",
 	"sprite": "sprites/enemy/humanoid/human/soldier/legionite.atlas",
 	"deck": [
 		"decks/standard/human_good.json"
@@ -12355,6 +12884,9 @@
 {
 	"name": "Human guard",
 	"nameOverride": "Human Guard",
+	"indefinite": "a human guard",
+	"definite": "the human guard",
+	"plural": "human guards",
 	"sprite": "sprites/enemy/humanoid/human/soldier/swordsman.atlas",
 	"deck": [
 		"decks/standard/human_mid.json"
@@ -12403,6 +12935,9 @@
 {
 	"name": "Human Mercenary",
 	"nameOverride": "",
+	"indefinite": "a human mercenary",
+	"definite": "the human mercenary",
+	"plural": "human mercenaries",
 	"sprite": "sprites/enemy/humanoid/swordsman_3.atlas",
 	"deck": [
 		"decks/standard/humanmercenary.dck"
@@ -12487,6 +13022,9 @@
 },
 {
 	"name": "Hydra",
+	"indefinite": "a hydra",
+	"definite": "the hydra",
+	"plural": "hydras",
 	"sprite": "sprites/enemy/monstrosity/hydra.atlas",
 	"deck": [
 		"decks/standard/hydra.json"
@@ -12533,6 +13071,9 @@
 },
 {
 	"name": "Ibis",
+	"indefinite": "an ibis",
+	"definite": "the ibis",
+	"plural": "ibises",
 	"sprite": "sprites/enemy/beast/ibis.atlas",
 	"deck": [
 		"decks/standard/bird_gu.dck"
@@ -12588,6 +13129,9 @@
 },
 {
 	"name": "Ibis-headed Aven Warrior",
+	"indefinite": "an ibis-headed aven warrior",
+	"definite": "the ibis-headed aven warrior",
+	"plural": "ibis-headed aven warriors",
 	"sprite": "sprites/enemy/humanoid/aven/ibisheadedaven.atlas",
 	"deck": [
 		"decks/standard/amonkhet_aven_u.dck"
@@ -12674,6 +13218,9 @@
 },
 {
 	"name": "Illusionist",
+	"indefinite": "an illusionist",
+	"definite": "the illusionist",
+	"plural": "illusionists",
 	"sprite": "sprites/enemy/humanoid/human/wizard/blue_wiz2.atlas",
 	"deck": [
 		"decks/standard/illusion.dck"
@@ -12724,6 +13271,9 @@
 },
 {
 	"name": "Immersturm Demon",
+	"indefinite": "an Immersturm demon",
+	"definite": "the Immersturm demon",
+	"plural": "Immersturm demons",
 	"sprite": "sprites/enemy/fiend/devil_2.atlas",
 	"deck": [
 		"decks/standard/immersturm_demon.dck"
@@ -12808,6 +13358,9 @@
 },
 {
 	"name": "Khenra Warrior",
+	"indefinite": "a khenra warrior",
+	"definite": "the khenra warrior",
+	"plural": "khenra warriors",
 	"sprite": "sprites/enemy/humanoid/khenra/jackalwarrior.atlas",
 	"deck": [
 		"decks/standard/jackal.dck"
@@ -12864,6 +13417,9 @@
 },
 {
 	"name": "Jace",
+	"indefinite": "Jace",
+	"definite": "Jace",
+	"plural": "Jaces",
 	"sprite": "sprites/enemy/humanoid/human/wizard/jace.atlas",
 	"deck": [
 		"decks/miniboss/jace.dck"
@@ -12949,6 +13505,9 @@
 },
 {
 	"name": "Jellyfish",
+	"indefinite": "a jellyfish",
+	"definite": "the jellyfish",
+	"plural": "jellyfish",
 	"sprite": "sprites/enemy/beast/jellyfish.atlas",
 	"deck": [
 		"decks/standard/jellyfish.dck"
@@ -13009,6 +13568,9 @@
 },
 {
 	"name": "Kavu",
+	"indefinite": "a kavu",
+	"definite": "the kavu",
+	"plural": "kavus",
 	"sprite": "sprites/enemy/monstrosity/kavu.atlas",
 	"deck": [
 		"decks/standard/kavu.dck"
@@ -13099,6 +13661,9 @@
 },
 {
 	"name": "Khan",
+	"indefinite": "a khan",
+	"definite": "the khan",
+	"plural": "khans",
 	"sprite": "sprites/enemy/humanoid/human/knight/cavalier.atlas",
 	"deck": [
 		"decks/standard/mardu.dck"
@@ -13184,6 +13749,9 @@
 },
 {
 	"name": "Kiora",
+	"indefinite": "Kiora",
+	"definite": "Kiora",
+	"plural": "Kioras",
 	"sprite": "sprites/enemy/humanoid/merfolk/kiora.atlas",
 	"deck": [
 		"decks/miniboss/kiora.dck"
@@ -13289,6 +13857,9 @@
 },
 {
 	"name": "Knight",
+	"indefinite": "a knight",
+	"definite": "the knight",
+	"plural": "knights",
 	"sprite": "sprites/enemy/humanoid/human/knight/paladin.atlas",
 	"deck": [
 		"decks/standard/knight.json"
@@ -13334,6 +13905,9 @@
 },
 {
 	"name": "Knight Mercenary",
+	"indefinite": "a knight mercenary",
+	"definite": "the knight mercenary",
+	"plural": "knight mercenaries",
 	"nameOverride": "",
 	"sprite": "sprites/enemy/humanoid/human/knight/cavalier_2.atlas",
 	"deck": [
@@ -13420,6 +13994,9 @@
 {
 	"name": "Kobold Dragoncaller",
 	"nameOverride": "",
+	"indefinite": "a kobold dragoncaller",
+	"definite": "the kobold dragoncaller",
+	"plural": "kobold dragoncallers",
 	"sprite": "sprites/enemy/humanoid/kobold/kobolddragoncaller.atlas",
 	"deck": [
 		"decks/standard/kobolddragoncaller.dck"
@@ -13487,6 +14064,9 @@
 {
 	"name": "Kobold Pyromancer",
 	"nameOverride": "",
+	"indefinite": "a kobold pyromancer",
+	"definite": "the kobold pyromancer",
+	"plural": "kobold pyromancers",
 	"sprite": "sprites/enemy/humanoid/kobold/koboldpyromancer.atlas",
 	"deck": [
 		"decks/standard/pyromancer.dck"
@@ -13554,6 +14134,9 @@
 {
 	"name": "Kobold Shaman",
 	"nameOverride": "",
+	"indefinite": "a kobold shaman",
+	"definite": "the kobold shaman",
+	"plural": "kobold shamans",
 	"sprite": "sprites/enemy/humanoid/kobold/koboldshaman.atlas",
 	"deck": [
 		"decks/standard/roshnakhtheroic.dck"
@@ -13620,6 +14203,9 @@
 {
 	"name": "Kobold Slinger",
 	"nameOverride": "",
+	"indefinite": "a kobold slinger",
+	"definite": "the kobold slinger",
+	"plural": "kobold slingers",
 	"sprite": "sprites/enemy/humanoid/kobold/koboldslinger.atlas",
 	"deck": [
 		"decks/standard/kobold.dck"
@@ -13687,6 +14273,9 @@
 {
 	"name": "Kobold Trapmaster",
 	"nameOverride": "",
+	"indefinite": "a kobold trapmaster",
+	"definite": "the kobold trapmaster",
+	"plural": "kobold trapmasters",
 	"sprite": "sprites/enemy/humanoid/kobold/koboldtrapmaster.atlas",
 	"deck": [
 		"decks/standard/koboldtrapmaster.dck"
@@ -13753,6 +14342,9 @@
 {
 	"name": "Kobold Warrior",
 	"nameOverride": "",
+	"indefinite": "a kobold warrior",
+	"definite": "the kobold warrior",
+	"plural": "kobold warriors",
 	"sprite": "sprites/enemy/humanoid/kobold/koboldwarrior.atlas",
 	"deck": [
 		"decks/standard/kobold.dck"
@@ -13817,6 +14409,9 @@
 },
 {
 	"name": "Kobold Worker",
+	"indefinite": "a kobold worker",
+	"definite": "the kobold worker",
+	"plural": "kobold workers",
 	"sprite": "sprites/enemy/humanoid/kobold/koboldworker.atlas",
 	"deck": [
 		"decks/standard/koboldworker.dck"
@@ -13882,6 +14477,9 @@
 },
 {
 	"name": "Kor Warrior",
+	"indefinite": "a kor warrior",
+	"definite": "the kor warrior",
+	"plural": "kor warriors",
 	"sprite": "sprites/enemy/humanoid/kor/mineguard.atlas",
 	"deck": [
 		"decks/standard/kor_warrior.dck"
